@@ -1,8 +1,4 @@
-Got it 👍 You want your entire project description **converted into a clean GitHub-style README** with headings, bullet points, and code blocks.
 
-Here’s your content transformed properly:
-
-```markdown
 # 🚌 Bus Entry-Exit Logging System (RFID + Flask)
 
 This project is a Flask-based web application that logs the entry and exit times of buses using RFID tags and stores the data in an Excel file (`buslog22.xlsx`).  
