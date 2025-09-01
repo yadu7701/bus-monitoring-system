@@ -90,5 +90,4 @@ This project is open-source. Feel free to modify and improve.
 
 ---
 
-👉 Would you like me to also **add shields.io badges** (Python, Flask, License, etc.) at the top to make it look even more professional for GitHub?
-```
+
